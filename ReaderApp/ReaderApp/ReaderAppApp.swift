@@ -11,7 +11,7 @@ import SwiftUI
 struct ReaderAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeTabView()
         }
     }
 }
